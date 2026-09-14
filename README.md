@@ -1,5 +1,7 @@
 # Hi, I'm Aditya 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=AdityaK342&color=8a5a2b&style=flat&label=Profile+views)
+
 CS student at the University of Illinois Urbana-Champaign. Currently a software
 engineering intern at Vontive in Seattle. Interested in markets, machine learning,
 and the software that sits between them. Previously at a stealth startup.
